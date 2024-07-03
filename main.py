@@ -56,7 +56,7 @@ openai.api_key = os.getenv("OPEN_AI_KEY")
 #             #time.sleep(0.05)
 #             yield history
 
-# AppFrontEnd()
+## AppFrontEnd()
 
 import json
 import requests
